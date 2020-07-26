@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PJb8/zz2VfGZTcjPdv6HabbcSK6aC5s1Y1Npcf+nmMxp/Qh3Xndk8qY5T8lInc8U53FP4Z+xsQeTN/AnrlCEDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ola\\Projects\\Augmentations\\Augmentations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ola\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Ola\\.nuget\\packages\\system.threading.tasks.dataflow\\4.11.1\\system.threading.tasks.dataflow.4.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
