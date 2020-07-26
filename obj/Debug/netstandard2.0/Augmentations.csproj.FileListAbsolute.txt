@@ -1,5 +1,0 @@
-C:\Users\Ola\Projects\Augmentations\bin\Debug\netstandard2.0\Augmentations.deps.json
-C:\Users\Ola\Projects\Augmentations\bin\Debug\netstandard2.0\Augmentations.dll
-C:\Users\Ola\Projects\Augmentations\obj\Debug\netstandard2.0\Augmentations.csprojAssemblyReference.cache
-C:\Users\Ola\Projects\Augmentations\obj\Debug\netstandard2.0\Augmentations.AssemblyInfoInputs.cache
-C:\Users\Ola\Projects\Augmentations\obj\Debug\netstandard2.0\Augmentations.AssemblyInfo.cs
